@@ -1,4 +1,4 @@
-# Hello there! 👋
+## Hello there! 👋
 ### My name is Humberto Axl and I am a Front-End React Developer with a passion for technology and building web applications. My earliest memories are of playing on my father's computer, which sparked my curiosity and fascination with technology. I am always excited to learn about new technologies and expand my skills.
 <br>
 I have primarily worked with Vue 3 and Vuetify, but I am also currently exploring React and Material UI. Although I have not yet made any public contributions to React projects on my GitHub, I am confident that I can adapt and work effectively with different tech stacks.
@@ -9,7 +9,7 @@ When I'm not coding, you can find me enjoying a cold beer or playing soccer with
 Thank you for stopping by!
 <br>
 <br>
-# Stats
+## Stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertoaxl&show_icons=true&theme=react" />
@@ -17,9 +17,9 @@ Thank you for stopping by!
 </div>
 <br>
  
-# Tech Stack
+## Tech Stack
 <div align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -33,8 +33,8 @@ Thank you for stopping by!
 </div>
     
   
-# Contact me
-<div align="center"> 
+## Contact me
+<div align="center">
   <a href = "mailto: humbertoaxl@gmail.com">
     <img alt="Mail icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="28">
   </a>

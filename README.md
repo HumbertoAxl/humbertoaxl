@@ -4,7 +4,7 @@ My earliest memories are of playing on my father's computer, which sparked my cu
 
 I have primarily worked with Vue 3 and Vuetify, but I am also currently exploring React and Material UI. Although I have not yet made any public contributions to React projects on my GitHub, I am confident that I can adapt and work effectively with different tech stacks.
 
-When I'm not coding, you can find me enjoying a cold beer or playing soccer with friends or exploring new places.
+When I'm not coding, you can find me enjoying a cold beer, playing soccer with friends or exploring new places.
 <br>
 <br>
 Thank you for stopping by!

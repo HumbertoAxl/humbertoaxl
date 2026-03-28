@@ -1,21 +1,13 @@
 ## Hello there! 👋
-### My name is Humberto Axl and I am a Front-End Developer with a passion for technology and building web applications.
+### My name is Humberto Axl and I am a Full Stack Developer with a passion for technology and building web applications.
 My earliest memories are of playing on my father's computer, which sparked my curiosity and fascination with technology. I am always excited to learn about new technologies and expand my skills.
 
-I have primarily worked with Vue 3 and Vuetify, but I am also currently exploring React and Material UI. Although I have not yet made any public contributions to React projects on my GitHub, I am confident that I can adapt and work effectively with different tech stacks.
+For the past six years, I have primarily worked with Angular, .Net and SQL databases. I have used React and Vue for personal projects
 
-When I'm not coding, you can find me enjoying a cold beer, playing soccer with friends or exploring new places.
-<br>
+When I'm not coding, you can find me enjoying a cold beer, playing football with friends or driving on my racing simulator rig 🏁
+
 <br>
 Thank you for stopping by!
-<br>
-<br>
-## Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertoaxl&show_icons=true&theme=react" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoaxl&layout=compact&theme=react" />
-</div>
 <br>
  
 ## Tech Stack

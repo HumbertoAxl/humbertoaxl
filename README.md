@@ -28,8 +28,8 @@ Thank you for stopping by!
   
 ## Contact me
 <div align="center">
-  <a href = "mailto: humbertoaxl@gmail.com">
-    <img alt="Mail icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="45">
+  <a href = "mailto:humbertoaxl@gmail.com">
+    <img alt="Mail icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="45">
   </a>
 &nbsp;
   <a href = "https://www.linkedin.com/in/humbertoaxl/">
